@@ -2,7 +2,7 @@
 
 <i>Tools used: Excel with VBA automation, Pivot Tables, and Scenario Analysis</i>
 
-Welcome to my quick walkthrough of how I explored and broke down the cash flow dynamics for Megawidget International. This report is more about *practical insights* and *what worked*—not heavy jargon.
+Welcome to my quick walkthrough of how I explored and broke down the cash flow dynamics for Megawidget International. This report is more about *practical insights* and *what worked*... Not heavy jargon.
 
 ---
 
@@ -68,7 +68,7 @@ I played around with different loan terms, ad budgets, and margin assumptions.
 
 ---
 
-## 5. Switching Delivery Partners?
+## What-If Analysis Part A: Switching Delivery Partners
 
 **New offer:** Flat £14.95 per order
 
@@ -78,7 +78,7 @@ Ran a quick analysis across 3 years of past sales.
 
 ---
 
-## 6. Discounts: Helpful or Hurtful?
+## Part B: Discounts - Helpful or Hurtful?
 
 Simulated offering:
 - 3% off for 20+ cases
@@ -93,7 +93,7 @@ Unless you're expecting massive order volume boosts, this might hurt more than h
 
 ---
 
-## 7. Predicting Sales Growth (Two Ways)
+## 5. Forecasting: Predicting Sales Growth (Two Ways)
 
 ### A. Deterministic Model
 - Assumes steady 5% growth every month in 2023
@@ -114,7 +114,7 @@ Outcome:
 
 ## Final Thoughts
 
-This model doesn’t just spit out numbers—it tells a story. One where Megawidget International needs to:
+This model doesn’t just tell numbers... It tells a story. One where Megawidget International needs to:
 - Rethink its finance plan if it wants to stay profitable
 - Be cautious with discount strategies
 - Seriously consider that delivery deal
