@@ -8,7 +8,7 @@ Welcome to my quick walkthrough of how I explored and broke down the cash flow d
 
 ## 1. What’s This All About?
 
-The goal? Build an interactive spreadsheet that could help a mid-size manufacturing company—Megawidget International—understand its cash flow better. Especially as they plan to invest in a new manufacturing facility for their high-performing products (B, D, and E).
+The goal is to build an interactive spreadsheet that could help a mid-size manufacturing company—Megawidget International—understand its cash flow better. Especially as they plan to invest in a new manufacturing facility for their high-performing products.
 
 The workbook helps answer questions like:
 - Can the company afford to take a loan for expansion?
