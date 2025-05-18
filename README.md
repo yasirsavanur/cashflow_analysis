@@ -1,4 +1,4 @@
-# MegaWidget Cashflow Analysis
+# MegaWidget Cashflow Analysis & Financial Modelling
 
 <i>Tools used: Excel with VBA automation, Pivot Tables, and Scenario Analysis</i>
 
