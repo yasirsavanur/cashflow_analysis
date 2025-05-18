@@ -19,7 +19,7 @@ The workbook helps answer questions like:
 
 ## 2. Clean-Up Crew: Organising the Raw Data
 
-**Sheet:** `1. Clean`
+**Sheet:** 1. Clean
 
 I used a macro to tidy up the raw sales data:
 - Removed blanks and irrelevant rows
@@ -32,7 +32,7 @@ This step sets the foundation for every single visual or metric later in the wor
 
 ## 3. Sales Summary Snapshot
 
-**Sheet:** `2. Organise`
+**Sheet:** 2. Organise
 
 Two macros keep this updated:
 - One refreshes the cleaned data
@@ -48,7 +48,7 @@ Two macros keep this updated:
 
 ## 4. Forecasting the Cash Flow for 2023
 
-**Sheets:** `3.1 Cash Flow Forecast` and `3.2 Cash Flow Dashboard`
+**Sheets:** 3.1 Cash Flow Forecast and 3.2 Cash Flow Dashboard
 
 I played around with different loan terms, ad budgets, and margin assumptions.
 
