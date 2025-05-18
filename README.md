@@ -17,7 +17,7 @@ The workbook helps answer questions like:
 
 ---
 
-## 2. Clean-Up Crew: Organising the Raw Data
+## 2. Clean-Up: Organising the Raw Data
 
 **Sheet:** 1. Clean
 
